@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kriti Katiyar</h1>
 <h3 align="center">A passionate Computer Science enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Flutter based android applicationon.**
+- 🔭 I’m currently working on **Flutter based android application.**
 
 - 🌱 I’m currently learning **Flutter**
 
