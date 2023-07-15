@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Kriti Katiyar</h1>
 <h3 align="center">A passionate Computer Science enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Flutter based android application.**
+- 🔭 I’m currently working on **Flutter based android applicationon.**
 
 - 🌱 I’m currently learning **Flutter**
+
+- 👨‍💻 All of my work is available at [https://github.com/kritikatiyar](https://github.com/kritikatiyar)
 
 - 📫 How to reach me **kritikatiyar38920@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kriti katiyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kriti katiyar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@2001640130025_it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@2001640130025_it" height="30" width="40" /></a>
+<a href="https://instagram.com/kriti katiyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kriti katiyar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kriti05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kriti05" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kritikatiyar38920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kritikatiyar38920" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
